@@ -1,4 +1,5 @@
 from flask import Flask, jsonify, request, render_template
+from functions.verify import check_data
 import requests
 import os
 
