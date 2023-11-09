@@ -1,2 +1,2 @@
-# zarf_DE
-Data Engineering zarf package
+# zarf-DE
+Data Engineering pipeline demo with ZARF
